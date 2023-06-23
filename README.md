@@ -2,5 +2,5 @@
 
 - 🔭 I am a driven architect with a passion for shaping physical spaces, now embarking on an exhilarating journey into the realms of computer vision and machine learning.
 - 💬 Ask me about my journey into computer vision!
-- 📫 Write me an email at <singh@arvinder.me> or send me a message on ![LinkedIn](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- 📫 Write me an email at <singh@arvinder.me> or send me a message on ![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
 - 🌐 [arvinder.me](https://arvinder.me)
