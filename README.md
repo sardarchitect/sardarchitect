@@ -1,9 +1,5 @@
-<p align="center">
-    <a href="https://github.com/sardarchitect">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Arvinder+Singh;Machine Learning Engineer+%7C+Architectural Designer;AI+%7C+Computer+Vision+%7C+Buildings" alt="Typing SVG" />
-    </a>
-<br/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=72F702&multiline=true&repeat=false&width=435&lines=Arvinder+Singh;ML+Engineer+%7C+Architectural+Designer)](https://git.io/typing-svg)
+
 
 <!--
 **sardarchitect/sardarchitect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
